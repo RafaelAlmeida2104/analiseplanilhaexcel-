@@ -9,6 +9,7 @@ Para se ter uma melhor análise foi criado um prompt para se ter um relatótio:
 
 Analise os dados do arquivo anexo e faça um relatório financeiro resumido como se fosse apresentar aos sócios da empresa mostrando os pontos críticos e positivos.  
 {REGRAS}
+
 Saber qual o mês com maior faturamento
 
 Fatutamento de cada trimestre e semestre
